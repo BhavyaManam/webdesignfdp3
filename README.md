@@ -5,8 +5,9 @@ This repository created for webdesign using reactjs fdp3
 #  Web Design Using React Js
 
 
-# Day Wise -01
-
+# Day Wise -01 
+[Recording video1](https://drive.google.com/file/d/1IBYXYrlL1QKIwrKupau_yzcE21hppRRH/view?usp=sharing)
+[Recording video2](https://drive.google.com/file/d/1xH7E7IWtss6nrPshQ6ERX0a-YC4yU9vk/view?usp=sharing)
 
 ### Day 01
 
@@ -131,6 +132,8 @@ This repository created for webdesign using reactjs fdp3
 
 
 ## Day 02:
+[Recording video1](https://drive.google.com/file/d/1JKIAniL8YkqcFCH88nyPCMC1c33mO8zA/view?usp=sharing)
+[Recording video2](https://drive.google.com/file/d/1Uc90YyfhbwzpaEFN7sD8soM_zjymo7if/view?usp=sharing)
 
 ## Introduction to Html5:
 
