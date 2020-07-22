@@ -167,3 +167,36 @@ This repository created for webdesign using reactjs fdp3
                                              1.2. Outbound Navigation(able to navigate to content present in another file)
                                              1.3. mailto(used to send a mail)
                                              1.4. tel(able to call particular person)
+                                           4. Semantic Elements:
+                                          Semantic Elements are similar to <div> tags but it contains some description.
+                                             1.1. section
+                                             1.2. article
+                                             1.3. aside
+                                             1.4. nav
+                                             1.5. header
+                                             1.6. footer
+                                         
+## Day 03
+
+[Recording Videos](https://transcripts.gotomeeting.com/#/s/ee9f7acf0398ebbeeedae97c307f29bb669e3f63b576daf4150427d699dbd329)
+
+## CSS (Cascading Style Sheets) : Add Beautification to our web page
+Syntax: Selector{Property: value;}
+
+Selector is used to select a tag where we want to apply styles.
+
+### Types of Selectors:(All selectors use style attribute in the head part)
+
+                        1. Universal Selector(*): By using Universal selector we are able to apply styles to the entire body part.
+                        
+                        2. Identifier Selector(#): To use identifier Selector we have to mention a id with name in the tag,identifiers are unique.
+                        3. Class Selector (.): To use class Selector we have to mention class with name in the tag,we can use any number of identifiers in a single class(class mostly used in External Css)
+                        4. Descendant Selector: Descendant Selector is used we are able to apply style to the tag present in the child and the child present in the parent class
+                            .parent>#child(h2)
+                        5. child combiner : Child combiner and Descendant Selector are same but different in the syntax only
+                            .parent #child(h2)
+                        
+ ### Types of css:
+                     1. Inline css : Inline css is used to apply style within a tag (without using any selector)
+                     2. Internal css : Internal css is nothing but we are able to apply styles within a page.
+                     3. External css : External css file is nothing but where we can give styles in another file and we are able to apply those styles into our file
