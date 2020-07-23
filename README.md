@@ -200,3 +200,15 @@ Selector is used to select a tag where we want to apply styles.
                      1. Inline css : Inline css is used to apply style within a tag (without using any selector)
                      2. Internal css : Internal css is nothing but we are able to apply styles within a page.
                      3. External css : External css file is nothing but where we can give styles in another file and we are able to apply those styles into our file
+                     
+                     
+                     
+## Day 04:
+
+## [Recording Video](https://transcripts.gotomeeting.com/#/s/4b7f38428b080052005b62799197d20c60de55734807a1f596fc82c3ccf49775)
+
+
+
+#### Created a Responsive profile using Flex box and metatag,media Queries
+
+##### Posted responsive profile in GitHub Pages
