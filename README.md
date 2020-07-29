@@ -571,7 +571,8 @@ Example:
 	//Appending child attribute to parent
 	secondDiv.appendChild(heading2);
 ```
-
+## 28-07-2020
+[Recording Video](https://transcripts.gotomeeting.com/#/s/bf9ab41da18cd47e2a6a538ca645e07c36958d0a977be73fa6c0649fde4ca061)
 
 
 
