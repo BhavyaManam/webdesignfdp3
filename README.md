@@ -574,5 +574,17 @@ Example:
 ## 28-07-2020
 [Recording Video](https://transcripts.gotomeeting.com/#/s/bf9ab41da18cd47e2a6a538ca645e07c36958d0a977be73fa6c0649fde4ca061)
 
+## 29-07-20
+[Recording Video](https://transcripts.gotomeeting.com/#/s/13328374375f0e28366e1193d7d175252908f0c5809f229db6debe44ec403a9c)
+
+## 30-07-2020
+[Recording Video](https://transcripts.gotomeeting.com/#/s/04540eba365cd34228d444c0fab34975c6f64e16a17ba0c7a2107d878d5e168d)
+
+## 31-07-2020
+[Recording Video](https://transcripts.gotomeeting.com/#/s/cb2cc0b15057186f3e1d66b33058acd23f86aa13616f180d29f41fa6a6ac03ea)
+
+## 1-08-2020
+[Recording Video](https://transcripts.gotomeeting.com/#/s/5951cccaf3ed849c4594e0fff5947f1b62578f2cd471a09cfdb1d5ff337e8e59)
+
 
 
