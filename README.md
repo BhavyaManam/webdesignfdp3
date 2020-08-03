@@ -214,8 +214,9 @@ Selector is used to select a tag where we want to apply styles.
 ##### Posted responsive profile in GitHub Pages
 
 
-## Day 05:
 
+## Day 05 & Day 06 :
+[Recording Video](https://drive.google.com/file/d/1DrXN-NwPcmDceWhPAGEABNyFlu75D7F-/view?usp=sharing,%20https://drive.google.com/file/d/1a84lq8wZ0zZ66JkcVTRLDX2bymxsvsJ8/view?usp=sharing)
 
 ### Tables
 *  `.table`   =>  Layout for table
